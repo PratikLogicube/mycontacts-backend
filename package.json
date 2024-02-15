@@ -2,14 +2,13 @@
   "name": "mycontacts-backend-api",
   "version": "1.0.0",
   "description": "This is an express project to maintain contacts.",
-  "main": "server.js",
+  "main": "index.js",
   "engines": {
     "node": "18.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node index.js"
   },
   "author": "Pratik Navlani",
   "license": "MIT",
